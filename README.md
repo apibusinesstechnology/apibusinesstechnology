@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="iconeAPI_Business_Technology.png" width="200" alt="API Business Technology Logo">
+</p>
 
+<p align="center"><strong>API Business Technology</strong><br>
+Solutions technologiques modernes pour entreprises ambitieuses
+</p>
 
 # Bonjour, je suis Pierre Richard Saint Louis 
 Fondateur de **API Business Technology** | Développeur Logiciel | Spécialiste DevOps & Testing
