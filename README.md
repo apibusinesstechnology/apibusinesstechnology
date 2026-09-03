@@ -1,5 +1,5 @@
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/806a1e61-9146-4b02-b2a4-9a521ef6cf8d" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/806a1e61-9146-4b02-b2a4-9a521ef6cf8d" />
 
 # Bonjour, je suis Pierre Richard Saint Louis 
 Fondateur de **API Business Technology** | Développeur Logiciel | Spécialiste DevOps & Testing
