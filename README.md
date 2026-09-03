@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="bannier.png" alt="API Business Technology Banner" width="100%">
+</p>
+
+<p align="center">
   <img src="iconeAPI_Business_Technology.png" width="200" alt="API Business Technology Logo">
 </p>
 
@@ -52,6 +56,35 @@ Je suis le fondateur de **API Business Technology**, une entreprise dédiée à 
 
 ---
 
+## Architecture globale
+
+L’architecture API Business Technology repose sur 4 piliers:
+
+### API Core Layer
+- Services modulaires  
+- Gestion des données  
+- Sécurité intégrée  
+- Validation & normalisation
+
+### DevOps Automation Layer
+- Pipelines CI/CD intelligents  
+- Tests automatisés  
+- Déploiements multi‑environnements  
+- Observabilité complète
+
+### AI & Security Layer
+- Analyse comportementale  
+- Détection d’anomalies  
+- IA prédictive  
+- Tableaux de bord en temps réel
+
+### Frontend & Integration Layer
+- Interfaces modernes  
+- Intégrations B2B  
+- Webhooks & micro‑services  
+- Extensibilité pour partenaires
+
+
 ## API Business Technology
 **API Business Technology** est une entreprise que j’ai fondée pour développer des solutions technologiques modernes et professionnelles.
 
@@ -86,7 +119,28 @@ gestion opérationnelle des organisations et améliorer la productivité grâce 
 
 ---
 
-## Me contacter
+## Pourquoi investir dans API Business Technology
+
+### Technologie solide et moderne
+Architecture modulaire, sécurisée, scalable, prête pour la production.
+
+### Positionnement stratégique
+Solutions DevOps, IA, sécurité — trois marchés en forte croissance.
+
+### Automatisation avancée
+Réduction des coûts, optimisation des opérations, fiabilité accrue.
+
+### Vision long terme
+Roadmap claire, évolutive, orientée innovation.
+
+### Expertise technique forte
+Fondée par un développeur & spécialiste DevOps expérimenté.
+
+### Potentiel B2B élevé
+Plateformes adaptées aux PME, startups, organisations gouvernementales.
+
+
+## contacter :API Business Technology
 - Email professionnel : apibusinesstechnology@gmail.com 
 - API Business Technology : www.apibusinesstechnology.com
 - LinkedIn : apibusinesstechnology
